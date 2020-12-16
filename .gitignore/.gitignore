@@ -1,0 +1,28 @@
+Assignment 2 IoT
+
+1.	What is the videos definition of IoT?
+It is a platform that connects everyday things such as electronics, sensors or software, to the internet that allows them to communicate and exchange data mutually. 
+
+2.	He uses the term platform, what is that?
+Platform is a main place or system that connects together software, hardware and data networks in order to manage devices, collect and analyze data as well as allow connecting with the cloud or on-site server. 
+
+3.	What does he mean by interact, contribute, collaborate. 
+He connects it with interdependence of humans and how expansion of this human interdependence would make human life safer and much more easier. If we all interact, contribute and collaborate with things around us then we would live in much more effortless environment. 
+
+4.	The video outlines some benefits? It mentions resource utilization, minimizing human effort, saving of time, artificial intelligence through the use of IoT, improved security. Who reaps each of those benefits?
+Us -  humans. In general it improves our own lives if all the things around us are connected, therefore, we don’t need to stress to find some specific information, as it is already available in the cloud. 
+
+5.	Features of IoT? Try to generalize. I know Fridays video will talk about gadgets, and today you have seen a weather sensor. So let your imagination take you away with the knowledge you have thus far.
+A feature is definitely the Intelligence, since it makes everyday things into ‘smart’ things, that communicate with each other and executes specific tasks that humans do not need to worry about. IoT is changing how humans live and with the digital transformation of society and cities, IoT makes lives more secure and dynamic. 
+
+6.	He uses the term Connect, Analyze and Integrate? What does connect mean in the context?
+It means that it is important to ensure the connectivity between all the things that are around you with the internet. All connected IoT devices are high-speed messaging between devices and the cloud or on-site server in order to ensure reliable communication. 
+
+7.	Analyze? Of what? Always, or dependent of context?
+Analyze the gathered data from the things around you, for example, smart home. It collects the data of a human interactions, activities and can possibly give solutions on how to perform better and how to do things smarter. 
+
+8.	Integrate? In this part he mentions concept of REST API, without too much research please find out what it is.
+IoT feature ‘Integrate’ means that the IoT platform can be used to communicate with different service providers or enterprises and provide them with data of my IoT devices. This communication happens with the help of REST API, which is an architectural style of an application programming interface. REST stands for ‘Representational State Transfer’ and it determines how API looks like. It provides a great deal of flexibility and uses HTTP requests to access and use data.
+
+9.	A Raspberry Pi is a computer. It is a useful gadget in IoT, not a necessary gadget. What is its role?
+As a low-cost computer, Raspberry Pi role is to let people explore computing and learn how to code in Python and Scratch. 
